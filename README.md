@@ -1,6 +1,3 @@
-# python exercicios
-todos os exercícios e atividades de lógica em python feitos em 2023
-
-Projetos e exercícios em python, feitos no google colab. Da 1° aula a atual, dentre eles foram exercícios passados pelo professor, projetos / trabalhos pedidos e estudo meu. É possível notar a evolução
-(obs: essa descrição acima de 2023, favor considerar)
+# Atividades — Python
+Esse repositório contém todas as atividades e trabalhos que realizei em Python em 2023 pelo meu curso técnico. Foram realizadas pelo Google Colab e possui desde as aulas iniciais até as finais. Dentre elas possuem listas de exercícios, cálculos, jokenpo, cadastros e etc.
 
